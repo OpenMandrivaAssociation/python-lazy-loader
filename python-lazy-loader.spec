@@ -1,6 +1,6 @@
 Summary:	Populate library namespace without incurring immediate import costs
 Name:		python-lazy-loader
-Version:	0.2
+Version:	0.3
 Release:	1
 License:	BSD-3-Clause
 Group:		Development/Python
